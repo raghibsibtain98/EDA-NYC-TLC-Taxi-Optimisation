@@ -1,0 +1,25 @@
+# Data files — too large for GitHub
+*.parquet
+*.csv
+*.zip
+*.pdf
+taxi_zones/
+data/
+
+# Virtual environment
+.pyspark-env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
